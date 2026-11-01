@@ -43,7 +43,7 @@ $products = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
 <div class="sidebar">
 
-    <h2><b>IMS</b</h2>
+    <h2><b>IMS</b></h2>
 
     <p class="menu-title">MAIN MENU</p>
 
