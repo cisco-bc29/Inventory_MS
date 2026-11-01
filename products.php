@@ -79,7 +79,7 @@ $products = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
         <div class="section-header">
 
-            <h2>All Products (<?= count($products) ?>)</h2>
+            <h2>All Product (<?= count($products) ?>)</h2>
 
             <form method="GET" class="search-form">
 
